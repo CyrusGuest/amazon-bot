@@ -1,0 +1,15 @@
+.container {
+  margin-bottom: 32px;
+  height: 97px;
+  background-color: white;
+  border-radius: 10px;
+  padding-left: 17px;
+  cursor: pointer;
+}
+
+.name {
+  font-weight: lighter;
+  font-size: 36px;
+  margin: 0;
+  padding-top: 11px;
+}

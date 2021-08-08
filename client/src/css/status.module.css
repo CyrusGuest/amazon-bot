@@ -1,0 +1,19 @@
+.icon_container {
+  background-color: red;
+  width: 105px;
+  height: 100%;
+  float: right;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  position: relative;
+  cursor: pointer;
+}
+
+.icon {
+  color: white;
+  font-size: 50px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: -25px 0 0 -23px;
+}

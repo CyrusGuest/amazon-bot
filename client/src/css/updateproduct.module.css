@@ -1,0 +1,45 @@
+body {
+  text-align: center;
+}
+
+.title {
+  font-size: 72px;
+  color: white;
+  font-weight: lighter;
+  margin: 39px auto;
+}
+
+.form {
+  width: 90%;
+  margin: auto;
+  background-color: white;
+  height: 50px;
+  border-radius: 15px;
+}
+
+.url {
+  width: 98%;
+  height: 98%;
+  outline: 0;
+  border: 0;
+  font-size: 24px;
+}
+
+.btn {
+  width: 15%;
+  display: block;
+  margin: 40px auto 15px auto;
+  height: 50px;
+  border-radius: 15px;
+  cursor: pointer;
+  font-size: 24px;
+  color: #2c2c39;
+  outline: 0;
+  border: 0;
+}
+
+.back {
+  color: white;
+  text-decoration: underline;
+  cursor: pointer;
+}

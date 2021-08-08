@@ -1,0 +1,66 @@
+.title {
+  font-size: 72px;
+  color: white;
+  font-weight: lighter;
+  margin: 39px auto;
+  text-align: center;
+}
+
+.container {
+  background-color: white;
+  width: 60%;
+  margin: auto;
+  border-radius: 15px;
+  height: 360px;
+  padding-top: 10px;
+}
+
+.name {
+  font-size: 48px;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.price {
+  font-size: 36px;
+  text-align: center;
+  margin: 7px 0;
+  padding: 0;
+}
+
+.status {
+  font-size: 36px;
+  text-align: center;
+  margin: 7px 0;
+  padding: 0;
+}
+
+.max {
+  font-size: 36px;
+  text-align: center;
+  margin: 7px 0 30px 0;
+  padding: 0;
+}
+
+.btn {
+  background-color: #2c2c39;
+  width: 20%;
+  height: 17%;
+  border-radius: 15px;
+  border: 0;
+  outline: 0;
+  margin: 0 auto;
+  display: block;
+  color: white;
+  font-size: 36px;
+  cursor: pointer;
+}
+
+.delete {
+  cursor: pointer;
+}
+
+.delete:hover {
+  text-decoration: underline;
+}
